@@ -61,7 +61,7 @@ Add CSS (colors, size &amp; opacity can be changed here)
 
 <h4>Add directive as attribute</h4>
 <pre class="prettyprint linenums">
-&lt;div hm-tap="showTouch($event)" hm-press="showTouch($event)" hm-doubletap="showTouch($event)" show-touches&gt;
+&lt;div hm-tap="showTouch($event)" hm-press="showTouch($event)" hm-doubletap="showTouch($event)" show-touches&gt;&lt;/div&gt;
 </pre>
 
 Toggle on/off by using "hot key" (spacebar + d).
