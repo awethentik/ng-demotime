@@ -2,7 +2,7 @@
 
 Combines angularJS + hammerJS + ng-hammer
 
-This is using <a href="https://github.com/hammerjs/hammer.js/wiki/Getting-Started" target="_blank">Hammer.js (v2)</a> and <a href="http://ryanmullins.github.io/angular-hammer/" target="_blank">Angular Hammer</a> with <a href="https://angularjs.org/" target="_blank">angularJS</a>.
+This is using <a href="http://hammerjs.github.io/" target="_blank">Hammer.js (v2)</a> and <a href="http://ryanmullins.github.io/angular-hammer/" target="_blank">Angular Hammer</a> with <a href="https://angularjs.org/" target="_blank">angularJS</a>.
 If you need to use hammerJS v1 use <a href="https://github.com/awethentik/ngHammer-showTouches">this</a>.
 
 ## Installation
@@ -115,7 +115,7 @@ Remove: <a href="http://jquery.com/" target="_blank">jQuery 1.10.2</a>
 
 ## Credits
 <ul>
-<li><a href="https://github.com/hammerjs/hammer.js/wiki/Getting-Started" target="_blank">Hammer.js (v2)</a></li>
+<li><a href="http://hammerjs.github.io/" target="_blank">Hammer.js (v2)</a></li>
 <li><a href="http://ryanmullins.github.io/angular-hammer/" target="_blank">Angular Hammer</a></li>
 <li><a href="http://chieffancypants.github.io/angular-hotkeys/" target="_blank">AngularHotkeys.js</a></li>
 </ul>
