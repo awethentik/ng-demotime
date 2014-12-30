@@ -3,6 +3,7 @@
 Combines angularJS + hammerJS + ng-hammer
 
 This is using <a href="https://github.com/hammerjs/hammer.js/wiki/Getting-Started" target="_blank">Hammer.js (v2)</a> and <a href="http://ryanmullins.github.io/angular-hammer/" target="_blank">Angular Hammer</a> with <a href="https://angularjs.org/" target="_blank">angularJS</a>.
+If you need to use hammerJS v1 use <a href="https://github.com/awethentik/ngHammer-showTouches">this</a>.
 
 ## Installation
 
